@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\bin\Debug\net8.0\ProjectsRepository_Business.deps.json
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\bin\Debug\net8.0\ProjectsRepository_Business.dll
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\bin\Debug\net8.0\ProjectsRepository_Business.pdb
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.AssemblyInfo.cs
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\Projects.56158523.Up2Date
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.dll
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\refint\ProjectsRepository_Business.dll
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepository_Business.pdb
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ref\ProjectsRepository_Business.dll
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\bin\Debug\net8.0\ProjectsRepositoryDB_DataAccess.dll
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\bin\Debug\net8.0\ProjectsRepositoryDB_DataAccess.pdb
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\bin\Debug\net8.0\ProjectsRepositoryDB_DataAccess.dll.config
