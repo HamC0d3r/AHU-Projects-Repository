@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepositoryBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepositoryBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepositoryBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepositoryBusinessLayer.AssemblyInfo.cs
+C:\Users\User\OneDrive - AHU\Desktop\ProjectsRepository\ProjectsRepositoryBusinessLayer\obj\Debug\net8.0\ProjectsRepositoryBusinessLayer.csproj.CoreCompileInputs.cache

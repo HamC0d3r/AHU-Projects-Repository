@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Codersquare - Home</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="header-placeholder"></div>
+
+  <main>
+    <h1 style="font-size: 2em; color: #5b3c25; margin-bottom: 1.5em;">Latest Posts</h1>
+    <div class="card-grid" id="postList"></div>
+  </main>
+
+  <div id="footer-placeholder"></div>
+
+  <script src="script.js"></script>
+  <script>
+    const posts = [
+      { title: "FauxPilot – an open-source GitHub Copilot server", link: "github.com/moyix", comments: 20, likes: 130 },
+      { title: "Columninar narrows current cohort size by 40%", link: "techcrunch.com", comments: 20, likes: 110 },
+      { title: "Nonprofit markups.org is exposing the most egregious new car prices", link: "markups.org", comments: 17, likes: 90 },
+      { title: "RTEMS Real Time Operating System", link: "rtems.org", comments: 8, likes: 55 },
+      { title: "I used DALL-E 2 to generate a logo", link: "jacobmartins.com", comments: 41, likes: 160 },
+      { title: "DALL-E 2 prompt book [pdf]", link: "dalle2.gallery", comments: 27, likes: 98 },
+      { title: "The Pickleball Troll", link: "thepickle.com", comments: 15, likes: 72 },
+      { title: "Show: NH Property Trends Scraped from Zillow", link: "jahjohnb.com", comments: 77, likes: 210 },
+      { title: "Use one big server", link: "sprechcht.com", comments: 12, likes: 58 },
+      { title: "What is an isogeny? (2019)", link: "johndcook.com", comments: 13, likes: 60 }
+    ];
+
+    const postList = document.getElementById("postList");
+
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function displayRandomPosts() {
+      const shuffledPosts = shuffleArray([...posts]).slice(0, 6);
+      shuffledPosts.forEach(post => {
+        const div = document.createElement("div");
+        div.className = "card";
+        div.innerHTML = `
+          <div class="title-text">${post.title}</div>
+          <a href="${post.link}" target="_blank" class="link">${post.link}</a>
+          <div class="details">${post.comments} comments • ${post.likes} likes</div>
+        `;
+        postList.appendChild(div);
+      });
+    }
+
+    displayRandomPosts();
+  </script>
+</body>
+</html>
